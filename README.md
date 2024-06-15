@@ -1,37 +1,24 @@
-
 <div align="center">
   <h1>Roadmap To Comprehensive Python Programming</h1>
 </div>
 
-
-
 <div align="center">
   
 ## Roadmaps
-
-<a href="https://awesomeopensource.com/project/elangosundar/awesome-README-templates">Python Programming Roadmap</a><br>
-<a href="https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project">Data Structure And Algorithms In Python</a>
+<a href="#python-programming-roadmap">Python Programming Roadmap</a><br>
+<a href="#data-structure-and-algorithms-in-python">Data Structure And Algorithms In Python</a>
 
 </div>
 
-
-
-
-
 ## Python Programming Roadmap
 
-- Additional browser support
+![expertise-in-python-programming-2024-06-16-00_07_12](https://github.com/moalimirinfinity/Python-Programming-Roadmap/assets/167340366/ca921a91-64c6-492f-b377-4cefbdabf084)
 
-- Add more integrations
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+## Data Structure And Algorithms In Python
+![expertise-in-python-programming-2024-06-16-00_07_12](https://github.com/moalimirinfinity/Python-Programming-Roadmap/assets/167340366/d6316755-8e10-4825-9f21-bd56104e2e83)
 
 
-## Demo
+## Roadmaps Links
 
-Insert gif or link to demo
-
-<iframe src="https://roadmap.sh/r/embed?id=6661c23ab998f3b3c7ed63c5" width="100%" height="500px" frameBorder="0"></iframe>
+- [Python Programming Roadmap](https://roadmap.sh/r/expertise-in-python-programming)
+- [Data Structure And Algorithms In Python](https://roadmap.sh/r/expertise-all-data-structures-and-design-algorithms-in-computer-science)
