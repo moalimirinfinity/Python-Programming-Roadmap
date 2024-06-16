@@ -9,7 +9,7 @@
 <br>
 
 </div>
-
+<br>
 ## Python Programming Roadmap
 
 ![expertise-in-python-programming-2024-06-16-00_07_12](https://github.com/moalimirinfinity/Python-Programming-Roadmap/assets/167340366/ca921a91-64c6-492f-b377-4cefbdabf084)
