@@ -5,7 +5,6 @@
 <div align="center">
   
 <a href="#python-programming-roadmap">Python Programming Roadmap</a><br>
-<br>
 <a href="#data-structure-and-algorithms-in-python">Data Structure And Algorithms In Python</a>
 <br>
 
